@@ -3,7 +3,7 @@
 
 -  Drag (`permissions.cfg`) to your (`CFXDefaultFiveM.base`) folder where your (`server.cfg`) is located.
 
-- Add this towards the top of your (`server.cfg`) (exec permissions.cfg)
+- Add this towards the top of your (`server.cfg`) exec permissions.cfg
 
 # Example CFG
 
